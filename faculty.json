@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Mallory Anderson",
+        "position": "undetermined"
+    },
+    {
+        "name": "Young Anna Argyris",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Johannes M Bauer",
+        "position": "Quello Chair in Media and Informtion Policy"
+    },
+    {
+        "name": "Susan Bonner",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Sandra Braman",
+        "position": [
+            "Professor for Media and Information",
+            "Senior Scholar for Quello Center"
+        ]
+    },
+    {
+        "name": "Celeste Campos-Castillo",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Amanda Cote",
+        "professor": [
+            "Associate Professor",
+            "Director of the Serious Games Certificate"
+        ]
+    },
+    {
+        "name": "Andrew Dennis",
+        "position": "Professor of Practice"
+    },
+    {
+        "name": "David Ewoldsen",
+        "position": "Professor"
+    }
+]
