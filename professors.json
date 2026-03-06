@@ -2,6 +2,7 @@
     {
         "name": "Amanda Cote",
         "position": "Associate Professor and Director of the Serious Games Certificate",
+        "subject": "Culture in the Game Indsutry",
         "position_array": [
             "Associate Professor",
             "Director of the Serious Games Certificate"
@@ -9,11 +10,13 @@
     },
     {
         "name": "Andrew Dennis",
+        "subject": "Game Artist and Designer",
         "position": "Professor of Practice"
     },
     {
         "name": "Brian Winn",
         "position": "Professor and Director of the Games for Entertainment and Learning Lab",
+        "subject": "Interactive Media Design and Creation",
         "position_array": [
             "Professor",
             "Director of the Games for Entertainment and Learning Lab"
@@ -21,38 +24,46 @@
     },
     {
         "name": "Carrie Heeter",
+        "subject": "Communication and Mass Media",
         "position": "Professor Emeritus"
     },
     {
         "name": "Casey O'Donnell",
+        "subject": "Collaborative Dynamics in the Game Industry",
         "position": "Associate Professor"
     },
     {
         "name": "Celeste Campos-Castillo",
+        "subject": "Mitigating Inequalities with Technology",
         "position": "Associate Professor"
     },
     {
         "name": "Cory Heald",
+        "subject": "Game Development, Design and Production",
         "position": "Professor of Practice"
     },
     {
         "name": "Daniel Putman",
-        "position": "Assistant Professor"
+        "subject": "Roles of Social Networks and Digital Technology in Poor Communities""position": "Assistant Professor"
     },
     {
         "name": "David Ewoldsen",
+        "subject": "Interdisciplinary Study in Communication and Media",
         "position": "Professor"
     },
     {
         "name": "Hee Rin Lee",
+        "subject": "Human-Robot Interaction",
         "position": "Assistant Professor"
     },
     {
         "name": "Jean Hardy",
+        "subject": "Rural Computing and Science and Technology Studies",
         "position": "Assistant Professor"
     },
     {
         "name": "Jeff Siarto",
+        "subject": "Web Design and Software Development",
         "position": "Professor of Practice and UXMS Interim Director",
         "position_array": [
             "Professor of Practice",
@@ -61,31 +72,37 @@
     },
     {
         "name": "Jennifer Olson",
+        "subject": "ICT Research and Development Projects",
         "position": "Associate Professor"
     },
     {
         "name": "Keith Hampton",
+        "subject": "Digital Technologies, Social Networks and Well-Being",
         "position": "Professor"
     },
     {
         "name": "Megan Knittel",
+        "subject": "Infomration Technology and Social Science Research Methods",
         "position": "Assistant Professor"
     },
     {
         "name": "Megh Marathe",
+        "subject": "Bioethics and Social Justice and Information Studies",
         "position": "Assistant Professor"
     },
     {
         "name": "Morgan Vigil-Hayes",
+        "subject": "Community Impacts of Network Systems",
         "position": "Associate Professor"
     },
     {
         "name": "Nick Kwiatkowski",
+        "subject": "Telecom Engineer and Unified Communications",
         "position": "Instructor"
     },
     {
         "name": "Rabindra Ratan",
-        "position": "Professor and AT&T Endowed Chair",
+        "subject": "Social and Psychological Research with Virtual Reality""position": "Professor and AT&T Endowed Chair",
         "position_array": [
             "Professor",
             "AT&T Endowed Chair"
@@ -93,14 +110,16 @@
     },
     {
         "name": "Ricardo Guimaraes",
+        "subject": "Games Concept Designer and Illustrator",
         "position": "Academic Specialist - Professor of Practice",
         "position_array": [
             "Academic Specialist",
             "Professor of Practice"
         ]
-    }
+    },
     {
         "name": "Ruth Shillair",
+        "subject": "Impacts of Technology on Society and Businesses",
         "position": "Assistant Professor and Director of Media + Information Master's Program",
         "position_array": [
             "Assistant Professor",
@@ -109,12 +128,12 @@
     },
     {
         "name": "Ryan Thompson",
-        "email": "thom1754@msu.edu",
         "subject": "Musicology and Game Development",
         "position": "Instructor"
     },
     {
         "name": "Sandra Braman",
+        "subject": "Macro-level Effects of Digital Technologies",
         "position": "Professor for Media and Information and Senior Scholar for Quello Center",
         "position_array": [
             "Professor for Media and Information",
@@ -123,18 +142,22 @@
     },
     {
         "name": "Sarah J Swierenga",
+        "subject": "User-Centered Design and Evaluation",
         "position": "Professor of Practice"
     },
     {
         "name": "Susan Bonner",
+        "subject": "Entertainment and Games in Healthcare",
         "position": "Associate Professor"
     },
     {
         "name": "Susan Wyche",
+        "subject": "Human Computer Interaction and African Studies",
         "position": "Associate Professor"
     },
     {
         "name": "Valeta Wensloff",
+        "subject": "Digital Media Art & Technology",
         "position": "Undergraduate Director, Senior Academic Specialist and Internship Coordinator",
         "position_array": [
             "Undergraduate Director",
@@ -144,10 +167,12 @@
     },
     {
         "name": "Wei Peng",
+        "subject": "Behavior Change with Interactive Media",
         "position": "Professor"
     },
     {
         "name": "Young Anna Argyris",
+        "subject": "Management Information Systems",
         "position": "Associate Professor"
     }
 ]
