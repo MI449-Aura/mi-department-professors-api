@@ -1,0 +1,153 @@
+[
+    {
+        "name": "Amanda Cote",
+        "position": "Associate Professor and Director of the Serious Games Certificate",
+        "position_array": [
+            "Associate Professor",
+            "Director of the Serious Games Certificate"
+        ]
+    },
+    {
+        "name": "Andrew Dennis",
+        "position": "Professor of Practice"
+    },
+    {
+        "name": "Brian Winn",
+        "position": "Professor and Director of the Games for Entertainment and Learning Lab",
+        "position_array": [
+            "Professor",
+            "Director of the Games for Entertainment and Learning Lab"
+        ]
+    },
+    {
+        "name": "Carrie Heeter",
+        "position": "Professor Emeritus"
+    },
+    {
+        "name": "Casey O'Donnell",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Celeste Campos-Castillo",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Cory Heald",
+        "position": "Professor of Practice"
+    },
+    {
+        "name": "Daniel Putman",
+        "position": "Assistant Professor"
+    },
+    {
+        "name": "David Ewoldsen",
+        "position": "Professor"
+    },
+    {
+        "name": "Hee Rin Lee",
+        "position": "Assistant Professor"
+    },
+    {
+        "name": "Jean Hardy",
+        "position": "Assistant Professor"
+    },
+    {
+        "name": "Jeff Siarto",
+        "position": "Professor of Practice and UXMS Interim Director",
+        "position_array": [
+            "Professor of Practice",
+            "UXMS Interim Director"
+        ]
+    },
+    {
+        "name": "Jennifer Olson",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Keith Hampton",
+        "position": "Professor"
+    },
+    {
+        "name": "Megan Knittel",
+        "position": "Assistant Professor"
+    },
+    {
+        "name": "Megh Marathe",
+        "position": "Assistant Professor"
+    },
+    {
+        "name": "Morgan Vigil-Hayes",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Nick Kwiatkowski",
+        "position": "Instructor"
+    },
+    {
+        "name": "Rabindra Ratan",
+        "position": "Professor and AT&T Endowed Chair",
+        "position_array": [
+            "Professor",
+            "AT&T Endowed Chair"
+        ]
+    },
+    {
+        "name": "Ricardo Guimaraes",
+        "position": "Academic Specialist - Professor of Practice",
+        "position_array": [
+            "Academic Specialist",
+            "Professor of Practice"
+        ]
+    }
+    {
+        "name": "Ruth Shillair",
+        "position": "Assistant Professor and Director of Media + Information Master's Program",
+        "position_array": [
+            "Assistant Professor",
+            "Director of Media + Information Master's Program"
+        ]
+    },
+    {
+        "name": "Ryan Thompson",
+        "email": "thom1754@msu.edu",
+        "subject": "Musicology and Game Development",
+        "position": "Instructor"
+    },
+    {
+        "name": "Sandra Braman",
+        "position": "Professor for Media and Information and Senior Scholar for Quello Center",
+        "position_array": [
+            "Professor for Media and Information",
+            "Senior Scholar for Quello Center"
+        ]
+    },
+    {
+        "name": "Sarah J Swierenga",
+        "position": "Professor of Practice"
+    },
+    {
+        "name": "Susan Bonner",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Susan Wyche",
+        "position": "Associate Professor"
+    },
+    {
+        "name": "Valeta Wensloff",
+        "position": "Undergraduate Director, Senior Academic Specialist and Internship Coordinator",
+        "position_array": [
+            "Undergraduate Director",
+            "Senior Academic Specialist",
+            "Internship Coordinator"
+        ]
+    },
+    {
+        "name": "Wei Peng",
+        "position": "Professor"
+    },
+    {
+        "name": "Young Anna Argyris",
+        "position": "Associate Professor"
+    }
+]
