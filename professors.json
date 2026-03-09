@@ -7,13 +7,15 @@
             "Associate Professor",
             "Director of the Serious Games Certificate"
         ],
-        "image": "/images/Amanda-Cote.jpg"
+        "image": "https://raw.githubusercontent.com/MI449-Aura/mi-department-professors-api/refs/heads/main/images/Amanda-Cote.jpg",
+        "something_cool": "https://nyupress.org/9781479802203/gaming-sexism/"
     },
     {
         "name": "Andrew Dennis",
         "subject": "Game Artist and Designer",
         "position": "Professor of Practice",
-        "image": "/images/Andrew-Dennis.jpg"
+        "image": "/images/Andrew-Dennis.jpg",
+        "something_cool": "https://www.artstation.com/horatious"
     },
     {
         "name": "Brian Winn",
@@ -23,55 +25,64 @@
             "Professor",
             "Director of the Games for Entertainment and Learning Lab"
         ],
-        "image": "/images/Brian-Winn.jpg"
+        "image": "/images/Brian-Winn.jpg",
+        "something_cool": "https://store.steampowered.com/app/1455900/Plunder_Panic/"
     },
     {
         "name": "Carrie Heeter",
         "subject": "Communication and Mass Media",
         "position": "Professor Emeritus",
-        "image": "/images/Carrie-Heeter.jpg"
+        "image": "/images/Carrie-Heeter.jpg",
+        "something_cool": "https://carrieheeter.com/"
     },
     {
         "name": "Casey O'Donnell",
         "subject": "Collaborative Dynamics in the Game Industry",
         "position": "Associate Professor",
-        "image": "/images/Casey-O-Donnell.jpg"
+        "image": "/images/Casey-O-Donnell.jpg",
+        "something_cool": "https://caseyodonnell.org/category/games/"
     },
     {
         "name": "Celeste Campos-Castillo",
         "subject": "Mitigating Inequalities with Technology",
         "position": "Associate Professor",
-        "image": "/images/Celeste-Campos-Castillo.jpg"
+        "image": "/images/Celeste-Campos-Castillo.jpg",
+        "something_cool": "https://scholar.google.com/citations?hl=en&user=TJGxvvkAAAAJ"
     },
     {
         "name": "Cory Heald",
         "subject": "Game Development, Design and Production",
         "position": "Professor of Practice",
-        "image": "/images/Cory-Heald.jpg"
+        "image": "/images/Cory-Heald.jpg",
+        "something_cool": "https://gamedev.msu.edu/cory-heald/"
     },
     {
         "name": "Daniel Putman",
         "subject": "Roles of Social Networks and Digital Technology in Poor Communities",
         "position": "Assistant Professor",
-        "image": "/images/Daniel-Putman.jpg"
+        "image": "/images/Daniel-Putman.jpg",
+        "something_cool": "https://www.dsputman.com/projects-experience"
     },
     {
         "name": "David Ewoldsen",
         "subject": "Interdisciplinary Study in Communication and Media",
         "position": "Professor",
-        "image": "/images/David-Ewoldsen.jpg"
+        "image": "/images/David-Ewoldsen.jpg",
+        "something_cool": "https://scholar.google.com/citations?user=OntC7VQAAAAJ&hl=en"
     },
     {
         "name": "Hee Rin Lee",
         "subject": "Human-Robot Interaction",
         "position": "Assistant Professor",
-        "image": "/images/Hee-Rin-Lee.jpg"
+        "image": "/images/Hee-Rin-Lee.jpg",
+        "something_cool": "https://www.heerinlee.com/design-art-work"
     },
     {
         "name": "Jean Hardy",
         "subject": "Rural Computing and Science and Technology Studies",
         "position": "Assistant Professor",
-        "image": "/images/Jean-Hardy.jpg"
+        "image": "/images/Jean-Hardy.jpg",
+        "something_cool": "https://ruralcomputing.msu.edu/"
     },
     {
         "name": "Jeff Siarto",
@@ -81,43 +92,50 @@
             "Professor of Practice",
             "UXMS Interim Director"
         ],
-        "image": "/images/Jeff-Siarto.jpg"
+        "image": "/images/Jeff-Siarto.jpg",
+        "something_cool": "https://siarto.com/"
     },
     {
         "name": "Jennifer Olson",
         "subject": "ICT Research and Development Projects",
         "position": "Associate Professor",
-        "image": "/images/Jennifer-Olson.jpg"
+        "image": "/images/Jennifer-Olson.jpg",
+        "something_cool": "https://youtu.be/-HYEUIAuQpU"
     },
     {
         "name": "Keith Hampton",
         "subject": "Digital Technologies, Social Networks and Well-Being",
         "position": "Professor",
-        "image": "/images/Keith-Hampton.jpg"
+        "image": "/images/Keith-Hampton.jpg",
+        "something_cool": "https://www.mysocialnetwork.net/publications/"
     },
     {
         "name": "Megan Knittel",
         "subject": "Infomration Technology and Social Science Research Methods",
         "position": "Assistant Professor",
-        "image": "/images/Megan-Knittel.jpg"
+        "image": "/images/Megan-Knittel.jpg",
+        "something_cool": "https://mlknittel.wixsite.com/mysite/projects"
     },
     {
         "name": "Megh Marathe",
         "subject": "Bioethics and Social Justice and Information Studies",
         "position": "Assistant Professor",
-        "image": "/images/Megh-Marathe.jpg"
+        "image": "/images/Megh-Marathe.jpg",
+        "something_cool": "https://marathem.weebly.com/voices-of-epilepsy.html"
     },
     {
         "name": "Morgan Vigil-Hayes",
         "subject": "Community Impacts of Network Systems",
         "position": "Associate Professor",
-        "image": "/images/Morgan-Vigil-Hayes.jpg"
+        "image": "/images/Morgan-Vigil-Hayes.jpg",
+        "something_cool": "https://vigil-hayes.github.io/projects/"
     },
     {
         "name": "Nick Kwiatkowski",
         "subject": "Telecom Engineer and Unified Communications",
         "position": "Instructor",
-        "image": "/images/Nick-Kwiatowski.jpg"
+        "image": "/images/Nick-Kwiatowski.jpg",
+        "something_cool": "https://www.nvtphybridge.com/nick-kwiatkowski/"
     },
     {
         "name": "Rabindra Ratan",
@@ -127,7 +145,8 @@
             "Professor",
             "AT&T Endowed Chair"
         ],
-        "image": "/images/Rabindra-Ratan.jpg"
+        "image": "/images/Rabindra-Ratan.jpg",
+        "something_cool": "https://www.robbyratan.com/"
     },
     {
         "name": "Ricardo Guimaraes",
@@ -137,7 +156,8 @@
             "Academic Specialist",
             "Professor of Practice"
         ],
-        "image": "/images/Ricardo-Guimaraes.jpg"
+        "image": "/images/Ricardo-Guimaraes.jpg",
+        "something_cool": "https://ricguimm.artstation.com/albums/1147949"
     },
     {
         "name": "Ruth Shillair",
@@ -147,13 +167,15 @@
             "Assistant Professor",
             "Director of Media + Information Master's Program"
         ],
-        "image": "/images/Ruth-Shillair.jpg"
+        "image": "/images/Ruth-Shillair.jpg",
+        "something_cool": "https://www.networkedtogether.com/index.html"
     },
     {
         "name": "Ryan Thompson",
         "subject": "Musicology and Game Development",
         "position": "Instructor",
-        "image": "/images/Ryan-Thompson.jpg"
+        "image": "/images/Ryan-Thompson.jpg",
+        "something_cool": "https://www.wkar.org/show/source-coda-with-ryan-thompson"
     },
     {
         "name": "Sandra Braman",
@@ -163,25 +185,29 @@
             "Professor for Media and Information",
             "Senior Scholar for Quello Center"
         ],
-        "image": "/images/Sandra-Braman.jpg"
+        "image": "/images/Sandra-Braman.jpg",
+        "something_cool": "https://scholar.google.com/citations?user=P073KCEAAAAJ&hl=en"
     },
     {
         "name": "Sarah J Swierenga",
         "subject": "User-Centered Design and Evaluation",
         "position": "Professor of Practice",
-        "image": "/images/Sarah-J-Swierenga.jpg"
+        "image": "/images/Sarah-J-Swierenga.jpg",
+        "something_cool": "https://www.researchgate.net/profile/Sarah-Swierenga"
     },
     {
         "name": "Susan Bonner",
         "subject": "Entertainment and Games in Healthcare",
         "position": "Associate Professor",
-        "image": "/images/Susan-Bonner.jpg"
+        "image": "/images/Susan-Bonner.jpg",
+        "something_cool": "https://gamedev.msu.edu/susan-bonner/"
     },
     {
         "name": "Susan Wyche",
         "subject": "Human Computer Interaction and African Studies",
         "position": "Associate Professor",
-        "image": "/images/Susan-Wyche.jpg"
+        "image": "/images/Susan-Wyche.jpg",
+        "something_cool": "https://www.susanwyche.com/"
     },
     {
         "name": "Valeta Wensloff",
@@ -192,18 +218,21 @@
             "Senior Academic Specialist",
             "Internship Coordinator"
         ],
-        "image": "/images/Valeta-Wensloff.jpg"
+        "image": "/images/Valeta-Wensloff.jpg",
+        "something_cool": "https://www.facebook.com/msusicc"
     },
     {
         "name": "Wei Peng",
         "subject": "Behavior Change with Interactive Media",
         "position": "Professor",
-        "image": "/images/Wei-Peng.jpg"
+        "image": "/images/Wei-Peng.jpg",
+        "something_cool": "https://scholar.google.com/citations?user=DwUrFHUAAAAJ&hl=en"
     },
     {
         "name": "Young Anna Argyris",
         "subject": "Management Information Systems",
         "position": "Associate Professor",
-        "image": "/images/Young-Anna-Arygris.jpg"
+        "image": "/images/Young-Anna-Arygris.jpg",
+        "something_cool": "https://scholar.google.com/citations?user=MXFCGM0AAAAJ&hl=en"
     }
 ]
